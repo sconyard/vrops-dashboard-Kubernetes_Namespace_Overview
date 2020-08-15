@@ -11,18 +11,18 @@ Workload Management](https://www.vmware.com/content/dam/digitalmarketing/vmware/
 
 #### Dashboard
 
-![Kubernetes Namespace overview](https://raw.githubusercontent.com/sconyard/vrops-dashboard-Kubernetes_Namespace_Overview/master/images/dashboard.png)
+![Kubernetes Namespace overview](https://raw.githubusercontent.com/sconyard/vrops-dashboard-Kubernetes_Namespace_Overview/main/images/dashboard.png)
 
 
 #### Installation
 
 1. import the dashboard from Dashboards | Actions | Manage Dashboards | Import Dashboards
-![Dashboard Import](https://raw.githubusercontent.com/sconyard/vrops-dashboard-Kubernetes_Namespace_Overview/master/images/dashboard_import.png)
+![Dashboard Import](https://raw.githubusercontent.com/sconyard/vrops-dashboard-Kubernetes_Namespace_Overview/main/images/dashboard_import.png)
 
-2. Browse for [dashboard.zip](https://github.com/sconyard/vrops-dashboard-Kubernetes_Namespace_Overview/raw/master/Dashboard.zip)
+2. Browse for [dashboard.zip](https://github.com/sconyard/vrops-dashboard-Kubernetes_Namespace_Overview/raw/main/Dashboard.zip)
 
 3. The dashboard will be imported and available in the dashboard list 
-![Dashboard List](https://raw.githubusercontent.com/sconyard/vrops-dashboard-Kubernetes_Namespace_Overview/master/images/dashboard_list.png)
+![Dashboard List](https://raw.githubusercontent.com/sconyard/vrops-dashboard-Kubernetes_Namespace_Overview/main/images/dashboard_list.png)
 
 #### Support
 
